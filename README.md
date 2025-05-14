@@ -1,4 +1,4 @@
-# HUSH
+## HUSH
 
 ## What is HUSH?
 
